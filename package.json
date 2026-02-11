@@ -1,0 +1,14 @@
+{
+  "name": "vintage-token",
+  "version": "0.1.0",
+  "description": "Welcome to the Vintage, where nostalgia fuels the future.",
+  "scripts": {
+    "build": "tsc",
+    "deploy": "ts-node scripts/deploy.ts",
+    "test": "echo \"tests coming soon\""
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
